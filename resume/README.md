@@ -39,8 +39,8 @@ Computerkennis
 	Software: After Effects/Photoshop/Illustrator
 	Webtechnologie: /
 	Programeertalen: HTML/CSS/JS
-	Favoriete website en apps: 	[Facebook](https://www.facebook.com/)
-					[Youtube](https://www.youtube.com/?hl=nl)
+	Favoriete website en apps: 	[Facebook]:(https://www.facebook.com/)
+					[Youtube]:(https://www.youtube.com/?hl=nl)
 					messenger.
 	
 
