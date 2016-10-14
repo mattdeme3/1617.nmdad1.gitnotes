@@ -44,7 +44,8 @@ Computerkennis
 	*Software: 			After Effects/Photoshop/Illustrator
 	*Webtechnologie: 		/
 	*Programeertalen: 		HTML/CSS/JS
-	*Favoriete website en apps:
+
+
 ik zit vaak op [Facebook](https://facebook.com) rond te surfen. 
 Op [Youtube](https://www.youtube.com/?hl=nl) zit ik ook vaak, ik luister er ook muziek.
 De app van facebook, messenger, gebruik ik regelmatig.
