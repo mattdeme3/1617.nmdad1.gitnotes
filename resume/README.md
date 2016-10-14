@@ -9,8 +9,8 @@ CV
 	*Geslacht: Man
 	*Nationaliteit: Belg
 	*Burgelijke staat: Ongehuwd
+<matt.de.meyer@hotmail.com>
 	*Telefoonnummer: 053/77/41/59
-	*E-mailadres: <mattdeme3@student.arteveldehs.be>
 	*Website: /
 	*Sociale Media: Facebook (Matthias De meyer)
 
@@ -18,7 +18,7 @@ Foto
 ----
 
 ![Matthias Foto](https://chamilo.arteveldehs.be/chamilo/files/userpictures/s90438.jpg)
-	
+Mijn	
 
 
 Opleiding(en)
